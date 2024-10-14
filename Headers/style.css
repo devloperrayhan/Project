@@ -1,0 +1,299 @@
+html,body,head,meta,link,style,script,title,h1,h2,h3,h4,h5,h6,p,span,div,dir,a,nav,ul,ol,li,header,footer,main,section,article,aside,figure,figcaption,table,tbody,thead,tr,td,th,img,input,textarea,select,form,label,button,blockquote,pre,code,main,hr,details,summary,summary,details,mark,del,ins,sub,sup,small,time,code,figure,figcaption,blockquote,dl,dt,dd,ul,ol,li{
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+}
+.width{
+    max-width: 1319px;
+    text-align: center;
+    margin: auto;
+}
+.logo{
+    height: 60px;
+}
+.menu-list ul li{
+    margin-left: 10px;
+}
+.hero-text{
+    text-align: left;
+}
+.hero-text h6{
+    font-weight: 500;
+    font-size: 20px;
+    color: #767676;
+    margin-top: 20%;
+    margin-bottom: 20px;
+}
+.hero-text h1{
+    font-weight: 400;
+    font-size: 45px;
+    margin-bottom: 25px;
+}
+.hero-text p{
+    font-weight: 300;
+    font-size: 18px;
+    color: #767676;
+    margin-bottom: 30px;
+}
+.hero-text a{
+    text-decoration: none;
+    background-color: #6C5CE7;
+    color: white;
+    font-weight: 500;
+    font-size: 18px;
+    padding: 15px 30px 15px 30px;
+    border-radius: 5px;
+    transition: all 0.3s;
+    border: 2px solid #6C5CE7;
+}
+.hero-text a:hover{
+    background-color: #fff;
+    color: #6C5CE7;
+    border: 2px solid #6C5CE7;
+}
+.about-text{
+    text-align: left;
+}
+.about-text h6{
+    font-weight: 500;
+    font-size: 20px;
+    color: #767676;
+    margin-top: 20%;
+    margin-bottom: 20px;
+}
+.about-text h1{
+    font-weight: 400;
+    font-size: 45px;
+    margin-bottom: 25px;
+}
+.about-text p{
+    font-weight: 300;
+    font-size: 18px;
+    color: #767676;
+    margin-bottom: 30px;
+}
+.about-text a{
+    text-decoration: none;
+    background-color: #6C5CE7;
+    color: white;
+    font-weight: 500;
+    font-size: 18px;
+    padding: 15px 30px 15px 30px;
+    border-radius: 5px;
+    transition: all 0.3s;
+    border: 2px solid #6C5CE7;
+}
+.about-text a:hover{
+    background-color: #fff;
+    color: #8490ff;
+    border: 2px solid #6C5CE7;
+}
+.about-text-1 h1{
+    font-weight: 500;
+    font-size: 45px;
+    margin-bottom: 10px;
+    color: #fff;
+}
+.about-text-1 h6{
+    font-weight: 300;
+    font-size: 18px;
+    color: #fff;
+    margin-bottom: 10px;
+}
+.box{
+    box-shadow: 2.5px 4.33px 30px 0 rgba(64,87,191,0.1);
+    padding-bottom: 50px;
+}
+.box-item h3{
+    font-weight: 400;
+    font-size: 40px;
+    margin-bottom: 10px;
+    background-color: #c1c1c148;
+    padding: 20px 20px 20px 20px;
+    border-radius: 50%;
+}
+.box-item h2{
+    font-weight: 400;
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+.box-item h6{
+    font-weight: 400;
+    font-size: 17px;
+    color: #767676;
+    margin-bottom: 60px;
+}
+.box-item h5{
+    font-weight: 400;
+    font-size: 18px;
+    color: #767676;
+    margin-bottom: 35px;
+}
+.box-item h5:last-child{
+    margin-bottom: 60px;
+}
+.App-btn a{
+    text-decoration: none;
+    color: #6C5CE7;
+    font-weight: 500;
+    font-size: 18px;
+    padding: 10px 30px 10px 30px;
+    border-radius: 5px;
+    transition: all 0.3s;
+    border: 2px solid #6C5CE7;
+}
+.App-btn a:hover{
+    background-color: #6C5CE7;
+    color: #FFF;
+    border: 2px solid #6C5CE7;
+}
+.App-text h1{
+    font-weight: 400;
+    font-size: 45px;
+    margin-bottom: 20px;
+}
+.App-text p{
+    font-weight: 500;
+    font-size: 19px;
+    margin-bottom: 130px;
+}
+.card{
+    position: relative;
+}
+.img{
+    height: 140px;
+    border-radius: 50%;
+    position: absolute;
+    top: -66px;
+    left: 22px;
+}
+.card-title{
+    margin-top: 80px;
+}
+img{
+    max-width: 100%;
+}
+.card{
+    box-shadow: 2.5px 4.33px 30px 0 rgba(64,87,191,0.1);
+}
+.card-text-p{
+    margin-bottom: 50px;
+}
+.card-body a{
+    text-decoration: none;
+    color: #000;
+    font-weight: 400;
+    font-size: 18px;
+    padding: 10px 20px 10px 20px;
+    border-radius: 5px;
+    transition: all 0.3s;
+    box-shadow: 2.5px 4.33px 30px 0 rgba(64, 87, 191, 0.418);
+}
+.text{
+    font-size: 20px;
+    font-weight: 400;
+}
+.card-body a:hover{
+    background-color: #000000;
+    color: #FFF;
+}
+.concact-text h4{
+    font-size: 25px;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+.concact-text h2{
+    font-size: 45px;
+    font-weight: 500;
+    margin-bottom: 80px;
+}
+.Message-shadow{
+    box-shadow: 2.5px 4.33px 30px 0 rgba(64,87,191,0.1);
+    padding: 50px 50px 50px 50px;
+    border-radius: 5px;
+}
+.Message-shadow div h3{
+    font-size: 25px;
+    font-weight: 400;
+    margin-bottom: 30px;
+}
+#email{
+    width: 98%;
+    font-size: 19px;
+    padding: 10px 20px 10px 15px;
+    border-radius: 5px;
+    border: 1px solid #000;
+    margin-bottom: 20px;
+    box-shadow: 2.5px 4.33px 30px 0 rgba(64,87,191,0.1);
+    transition: all 0.3s;
+}
+#name,#phone{
+    width: 49%;
+    font-size: 19px;
+    padding: 10px 20px 10px 15px;
+    border-radius: 5px;
+    border: 1px solid #000;
+    margin-bottom: 20px;
+    box-shadow: 2.5px 4.33px 30px 0 rgba(64,87,191,0.1);
+    transition: all 0.3s;
+}
+#name:focus,#phone:focus,#message:focus,#email:focus{
+    outline: none;
+    border: 1px solid #6C5CE7;
+    box-shadow: 3px 3px 27px -3px #6278df;
+}
+#message{
+    width: 98%;
+    font-size: 19px;
+    padding: 10px 20px 10px 15px;
+    border-radius: 5px;
+    border: 1px solid #000;
+    margin-bottom: 20px;
+    box-shadow: 2.5px 4.33px 30px 0 rgba(64,87,191,0.1);
+    transition: all 0.3s;
+}
+#Send{
+    background-color: #6C5CE7;
+    color: #FFF;
+    border: 2px solid #6C5CE7;
+    font-size: 20px;
+    padding: 10px 60px 10px 60px;
+    border-radius: 5px;
+    transition: all 0.3s;
+}
+#Send:hover{
+    background-color: #FFF;
+    color: #6C5CE7;
+    border: 2px solid #6C5CE7;
+}
+.text-contact{
+    text-align: left;
+}
+.text-contact div h3{
+    font-size: 25px;
+    font-weight: 400;
+    margin-bottom: 30px;
+    margin-top: 100px;
+}
+.footer-text p{
+    font-size: 20px;
+    font-weight: 400;
+    margin-bottom: 20px;
+    color: #767676;
+}
+.footer-text p a{
+    text-decoration: none;
+    color: #767676;
+}
+.footer-text p a:hover{
+    text-decoration: underline;
+    text-underline-offset: 5px;
+}
+body{
+    padding-left: 12px;
+}
+.box-item {
+    margin-top: 50px;
+}
+ .Zx-1 .col-12{
+    margin-bottom: 117px;
+ }
